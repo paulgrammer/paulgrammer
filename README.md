@@ -1,9 +1,17 @@
 - 👋 Hi, I’m @paulgrammer
-- 👀 I’m interested in MYSELF, AI, NLP, ML, NODEJS 
-- 🌱 I’m currently learning PEOPLE
-- 📫 How to reach me VIA paulmugaya@live.com
-
-<!---
-paulgrammer/paulgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<code>
+const aboutMe = {
+   name: "Paul Jeremiah Mugaya",
+   pronouns: "he" | "him",
+   code: [Javascript, Node],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Framework7", "Ant design", "Material UI"]
+      },
+      databases: ["MONGODB", "PouchDB", "CouchDB"],
+   },
+   currentOccupation: ["BOSS"],
+   hobbies: ["salsa dancing"],
+};
+</code>
