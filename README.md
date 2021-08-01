@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulgrammer
-<code>
+``` <code>
 const aboutMe = {
    name: "Paul Jeremiah Mugaya",
    pronouns: "he" | "him",
@@ -7,7 +7,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["Framework7", "Ant design", "Material UI"]
+         css: ["Framework7", "Ant design", "Material UI", "Tailwind ui"]
       },
       databases: ["MONGODB", "PouchDB", "CouchDB"],
    },
@@ -15,3 +15,4 @@ const aboutMe = {
    hobbies: ["salsa dancing"],
 };
 </code>
+```
