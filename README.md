@@ -1,18 +1,21 @@
-- 👋 Hi, I’m @paulgrammer
-``` <code>
+- 👋 Hi, I’m paulgrammer
+```javascript
 const aboutMe = {
    name: "Paul Jeremiah Mugaya",
-   pronouns: "he" | "him",
-   code: [Javascript, Node],
+   isFullStack: true,
+   pronouns: "he" || "him",
+   code: ["Javascript", "Typescript", "NODE.JS"],
+   country: (isNative) => {
+      return `${isNative ? "🇺🇬": ""} Uganda`
+   }(true),
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Framework7", "Ant design", "Material UI", "Tailwind ui"]
+         js: ["React.js"],
+         css: ["Framework7", "Ant design", "Material UI", "Tailwind UI"]
       },
       databases: ["MONGODB", "PouchDB", "CouchDB"],
    },
    currentOccupation: ["BOSS"],
-   hobbies: ["salsa dancing"],
+   hobbies: ["Latin dance", "movies", "travelling"],
 };
-</code>
 ```
