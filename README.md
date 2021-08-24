@@ -11,7 +11,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React.js"],
-         css: ["Framework7", "Ant design", "Material UI", "Tailwind UI"]
+         css: ["Framework7", "Ant design", "Material UI", "Tailwind UI", "vechaiui", "headlessui"]
       },
       databases: ["MONGODB", "PouchDB", "CouchDB"],
    },
