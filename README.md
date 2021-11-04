@@ -4,7 +4,7 @@ const aboutMe = {
    name: "Paul Jeremiah Mugaya",
    isFullStack: true,
    pronouns: "he" || "him",
-   code: ["PYTHON", "Javascript", "Typescript", "NODE.JS"],
+   code: ["PYTHON", "AI", "ML", "CV", "NLP", "Javascript", "Typescript", "NODE.JS"],
    country: (isNative = true) => {
       return `${isNative ? "🇺🇬": ""} Uganda`
    }(true),
@@ -17,6 +17,6 @@ const aboutMe = {
       databases: ["MONGODB", "PouchDB", "CouchDB"],
    },
    currentOccupation: ["BOSS"],
-   hobbies: ["Latin dance", "movies", "travelling"],
+   hobbies: ["coding", "Latin dance", "movies", "travelling"],
 };
 ```
