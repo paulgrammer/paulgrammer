@@ -5,9 +5,7 @@ const aboutMe = {
    isFullStack: true,
    pronouns: "he" || "him",
    code: ["PYTHON", "AI", "ML", "CV", "NLP", "Javascript", "Typescript", "NODE.JS"],
-   country: (isNative = true) => {
-      return `${isNative ? "🇺🇬": ""} Uganda`
-   }(true),
+   country: "🇺🇬",
    technologies: {
       frontEnd: {
          js: ["React.js"],
@@ -16,7 +14,6 @@ const aboutMe = {
       backend: ["PYTHON", "NODE.JS"],
       databases: ["MONGODB", "PouchDB", "CouchDB"],
    },
-   currentOccupation: ["BOSS"],
    hobbies: ["coding", "Latin dance", "movies", "travelling"],
 };
 ```
