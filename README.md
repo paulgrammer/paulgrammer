@@ -7,6 +7,10 @@ console.log("Hello world, greetings from Uganda 🇺🇬")
 puts "Hello world, greatings from Uganda 🇺🇬"
 ```
 
+```go
+fmt.Println("Hello world, greatings from Uganda 🇺🇬")
+```
+
 ```python
 print("Hello world, greatings from Uganda 🇺🇬")
 ```
