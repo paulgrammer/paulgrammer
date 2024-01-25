@@ -4,13 +4,13 @@ console.log("Hello world, greetings from Uganda 🇺🇬")
 ```
 
 ```ruby
-puts "Hello world, greatings from Uganda 🇺🇬"
+puts "Hello world, greetings from Uganda 🇺🇬"
 ```
 
 ```go
-fmt.Println("Hello world, greatings from Uganda 🇺🇬")
+fmt.Println("Hello world, greetings from Uganda 🇺🇬")
 ```
 
 ```python
-print("Hello world, greatings from Uganda 🇺🇬")
+print("Hello world, greetings from Uganda 🇺🇬")
 ```
