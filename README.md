@@ -1,16 +1,16 @@
 - 👋 Hi, I’m paulgrammer
 ```javascript
-console.log("Hello world, greetings from Uganda 🇺🇬")
+console.log("Hello world")
 ```
 
 ```ruby
-puts "Hello world, greetings from Uganda 🇺🇬"
+puts "Hello world"
 ```
 
 ```go
-fmt.Println("Hello world, greetings from Uganda 🇺🇬")
+fmt.Println("Hello world")
 ```
 
 ```python
-print("Hello world, greetings from Uganda 🇺🇬")
+print("Hello world")
 ```
